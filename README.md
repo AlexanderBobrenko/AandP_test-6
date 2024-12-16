@@ -1,4 +1,4 @@
-<h1 align="center">Test №5 for 💯 points</h1>
+<h1 align="center">Test №6 for 💯 points</h1>
 <h3 align="right">Автор: Бобренко Александр 😱</h3>
 
 <p align="center">
