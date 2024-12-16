@@ -1,8 +1,8 @@
 <h1 align="center">Test №6 for 💯 points</h1>
-<h3 align="right">Автор: Бобренко Александр 😱</h3>
+<h3 align="right">Автор: Бобренко Александр</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/98d4d2a2-be3c-4b4f-8838-7d27cb952b85" alt="minions-strong">
+  <img src="https://github.com/user-attachments/assets/72c699bf-8855-4377-b055-1b68bb26f384" alt="hasbula">
 </p>
 
 <h2></h2>
